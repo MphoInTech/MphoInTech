@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi there, I'm Mpho.🌻<br><br>- 👩🏾‍💻 An aspiring Web Developer.✨<br/><br>- 🌱 I’m currently learning Javascript, HTML & CSS.<br/><br>- 💖 Pronouns: SHE, HER
+## Hi there, I'm Mpho.🌻<br><br>- 👩🏾‍💻 An aspiring Web Developer.✨<br/><br>- 🌱 I’m currently learning Javascript, HTML & CSS.<br/><br>- 😎 Uploading all my projects (big or small) as part of my learning journey.<br/><br>-💖 Pronouns: SHE, HER
 
 
 ## 🌐 Socials:
